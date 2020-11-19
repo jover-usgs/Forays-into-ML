@@ -1,0 +1,6 @@
+name: BlurAndClear
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.5  
